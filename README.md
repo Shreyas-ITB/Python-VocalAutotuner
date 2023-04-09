@@ -1,4 +1,4 @@
-# Simple Auto-Tune in Python
+# Simple Vocal Auto-Tune in Python
 
 ## A command-line utility for beautifying your vocals
 ---
